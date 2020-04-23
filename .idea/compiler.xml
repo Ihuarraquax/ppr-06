@@ -9,5 +9,6 @@
         <module name="ppr-06" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
